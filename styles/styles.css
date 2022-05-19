@@ -1,0 +1,19 @@
+h1{color:blue}
+h2{color:green}
+h3{color:blueviolet}
+li{color:orange}
+
+header {
+    background-color: red;
+}
+.cabecera {
+    background-color: blue;
+    padding: 5px; 
+}
+
+#cabecera-principal {
+    background-color: green;
+    font-size: 60px;
+}
+
+
