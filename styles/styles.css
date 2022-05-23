@@ -1,10 +1,16 @@
 h1{color:wheat}
 h2{color:green}
 h3{color:yellow}
-li{color:blueviolet;
+header ul li {
+  color:blueviolet;
+  display: inline;
+  margin-right: 6px;
 }
 
-.cabecera {
+{  margin-right: 0px;
+}
+
+.titulo{
     background-color:red;
     padding: 5px;
     font-size: 50px;
@@ -35,4 +41,9 @@ li{color:blueviolet;
     font-size: 2opx;
 }
 
+.formulario{
+    background-color: brown;
+    padding: 5px;
+    font-size: 20px;
+}
 
