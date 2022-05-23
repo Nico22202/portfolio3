@@ -1,19 +1,38 @@
-h1{color:blue}
+h1{color:wheat}
 h2{color:green}
-h3{color:blueviolet}
-li{color:orange}
-
-header {
-    background-color: red;
+h3{color:yellow}
+li{color:blueviolet;
 }
+
 .cabecera {
-    background-color: blue;
-    padding: 5px; 
+    background-color:red;
+    padding: 5px;
+    font-size: 50px;
+
 }
 
-#cabecera-principal {
-    background-color: green;
-    font-size: 60px;
+.datos-personales{ 
+    background-color: brown; 
+    padding: 5px;
+    font-size: 2opx;
+}
+
+.datos-academicos{
+    background-color: brown; 
+    padding: 5px;
+    font-size: 2opx;
+}
+
+.experiencia-laboral{
+    background-color: brown; 
+    padding: 5px;
+    font-size: 2opx;
+}
+
+.mis-hobbies{
+    background-color: brown; 
+    padding: 5px;
+    font-size: 2opx;
 }
 
 
