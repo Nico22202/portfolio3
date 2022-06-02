@@ -2,15 +2,17 @@ h1{color:wheat}
 h2{color:green}
 h3{color:yellow}
 
-body {
+header {
     font-family: 'Koulen';
     background-color: wheat;
+    padding: 1px;
 }
-
+main{
+    background-color:beige;
+}
 .botones li {
-
-    display: inline;
-    margin-right: 30px;
+    display: inline-flex;
+    margin: 20px;
     border: 4px solid salmon;
     border-radius: 5px;
     background-color: whitesmoke;
@@ -32,23 +34,29 @@ header {
     padding: 5px;
     font-size: 50px;
     text-align: center;
+    display: inline-block;;
 }
 
 .datos-personales{ 
     background-color: red; 
-    padding: 5px;
-    font-size: 2opx;
+    padding: 10px;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
 }
 
 .datos-personales a{
     color: white;
-    text-decoration: none;
+    text-decoration: none
+    ;
 }
 
 .datos-academicos{
     background-color: red; 
     padding: 5px;
     font-size: 2opx;
+    text-align: center;
+    
 }
 
 .datos-academicos a{
@@ -86,6 +94,4 @@ header {
 
 .formulario a{
     color: white;
-    text-decoration: none;
-
-}
+    text-decoration: none;}
